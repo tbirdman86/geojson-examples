@@ -1,0 +1,70 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Fincas": "Bogota Finca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1796875,
+          4.872047700241915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fincas": "Manizales Finca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.498046875,
+          5.178482088522876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fincas": "Ituango Finca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5859375,
+          7.013667927566642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fincas": "Cartagena Finca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.498046875,
+          10.574222078332806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fincas": "Finca Isla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.837890625,
+          1.9771465537125772
+        ]
+      }
+    }
+  ]
+}
